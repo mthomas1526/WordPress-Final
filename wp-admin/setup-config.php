@@ -315,10 +315,10 @@ switch ( $step ) {
 		 *
 		 * @ignore
 		 */
-		define( 'DB_NAME', $dbname );
-		define( 'DB_USER', $uname );
-		define( 'DB_PASSWORD', $pwd );
-		define( 'DB_HOST', $dbhost );
+		define( 'DB_NAME', 'defaultdb' );
+		define( 'DB_USER', 'doadmin' );
+		define( 'DB_PASSWORD', 'AVNS_uNLoltsBsP5fJieNrlK' );
+		define( 'DB_HOST', 'db-mysql-nyc3-42885-do-user-32956332-0.f.db.ondigitalocean.com' );
 		/**#@-*/
 
 		// Re-construct $wpdb with these new values.
