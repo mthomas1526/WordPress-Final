@@ -1,0 +1,71 @@
+name: WordPress Security Scan
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  security:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.2
+          tools: composer
+
+      - name: Install dependencies
+        run: |
+          if [ -f composer.json ]; then
+            composer install --no-interaction --prefer-dist
+          fi
+
+      # ========================
+      # ANALISIS ESTATICO PHP
+      # ========================
+      - name: Install PHP CodeSniffer + WordPress rules
+        run: |
+          composer global require squizlabs/php_codesniffer
+          composer global require wp-coding-standards/wpcs
+          echo "$HOME/.composer/vendor/bin" >> $GITHUB_PATH
+
+      - name: Run PHPCS (WordPress security standards)
+        run: |
+          phpcs --standard=WordPress wp-content/ || exit 1
+
+      # ========================
+      # ANALISIS ESTATICO AVANZADO
+      # ========================
+      - name: Install PHPStan
+        run: composer global require phpstan/phpstan
+
+      - name: Run PHPStan analysis
+        run: phpstan analyse wp-content/ --level=5 || exit 1
+
+      # ========================
+      # ESCANEO DE VULNERABILIDADES (DEPENDENCIAS)
+      # ========================
+      - name: Composer security audit (FAIL if vulnerable)
+        run: |
+          if [ -f composer.json ]; then
+            composer audit
+          fi
+
+      # ========================
+      # ESCANEO WORDPRESS (WPScan)
+      # ========================
+      - name: Run WPScan vulnerability check
+        run: |
+          docker run --rm \
+            -v $PWD:/app \
+            wpscanteam/wpscan \
+            --no-update \
+            --force \
+            --path /app \
+            --format cli
