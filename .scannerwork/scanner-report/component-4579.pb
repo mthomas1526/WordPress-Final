@@ -1,0 +1,1 @@
+ã# 2phpXBhr;wp-includes/customize/class-wp-customize-upload-control.php

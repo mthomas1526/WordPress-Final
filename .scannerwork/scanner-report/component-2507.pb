@@ -1,0 +1,1 @@
+Ë 2phpX0hrOwp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php

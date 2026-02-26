@@ -1,0 +1,1 @@
+Æ 2phpX/hr:wp-content/themes/twentytwentyfive/patterns/hidden-404.php

@@ -1,0 +1,1 @@
+, 2jsXhr2wp-includes/js/tinymce/plugins/image/plugin.min.js

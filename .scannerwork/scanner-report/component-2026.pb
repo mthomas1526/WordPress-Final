@@ -1,0 +1,1 @@
+ê 2phpX€hrTwp-content/themes/twentytwentyfive/patterns/template-home-with-sidebar-news-blog.php

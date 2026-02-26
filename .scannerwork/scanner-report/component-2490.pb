@@ -1,0 +1,1 @@
+º 2phpXhr>wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php

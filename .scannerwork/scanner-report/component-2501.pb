@@ -1,0 +1,1 @@
+Å 2phpX$hrKwp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php

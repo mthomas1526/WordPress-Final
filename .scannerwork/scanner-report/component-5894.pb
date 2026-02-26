@@ -1,0 +1,1 @@
+†. 2phpXQhrywp-includes/php-ai-client/src/Providers/OpenAiCompatibleImplementation/AbstractOpenAiCompatibleModelMetadataDirectory.php

@@ -1,0 +1,1 @@
+ó 2cssXhrOwp-content/themes/twentytwentyone/assets/sass/05-blocks/query-loop/_editor.scss

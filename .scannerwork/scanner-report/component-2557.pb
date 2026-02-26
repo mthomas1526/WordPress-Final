@@ -1,0 +1,1 @@
+ý 2webXhr>wp-content/themes/twentytwentytwo/parts/header-small-dark.html

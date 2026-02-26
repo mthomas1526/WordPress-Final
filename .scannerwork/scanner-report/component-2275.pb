@@ -1,0 +1,1 @@
+ã 2cssX‘hrQwp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-posts/_editor.scss

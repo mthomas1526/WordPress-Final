@@ -1,0 +1,1 @@
+´, 2jsXqhr2wp-includes/js/tinymce/plugins/wpgallery/plugin.js

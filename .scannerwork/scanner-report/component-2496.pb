@@ -1,0 +1,1 @@
+À 2phpXhrNwp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php

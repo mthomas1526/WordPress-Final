@@ -1,0 +1,1 @@
+š 2cssXhr,wp-includes/blocks/query-title/style-rtl.css

@@ -1,0 +1,1 @@
+Î# 2phpXIhr:wp-includes/customize/class-wp-customize-image-control.php

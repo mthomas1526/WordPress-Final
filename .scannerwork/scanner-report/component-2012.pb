@@ -1,0 +1,1 @@
+Ü 2phpX•hr=wp-content/themes/twentytwentyfive/patterns/pricing-3-col.php

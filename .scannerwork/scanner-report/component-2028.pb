@@ -1,0 +1,1 @@
+ì 2phpX@hrRwp-content/themes/twentytwentyfive/patterns/template-page-vertical-header-blog.php

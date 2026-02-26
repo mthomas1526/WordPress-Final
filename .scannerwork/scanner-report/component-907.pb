@@ -1,0 +1,1 @@
+‹ 2phpXghrwp-config-sample.php

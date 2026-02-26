@@ -1,0 +1,1 @@
+õ 2phpXDhr4wp-content/themes/twentyfourteen/content-gallery.php

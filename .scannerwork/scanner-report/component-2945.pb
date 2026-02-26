@@ -1,0 +1,1 @@
+ 2cssXİhr&wp-includes/blocks/image/style-rtl.css

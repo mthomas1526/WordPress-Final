@@ -1,0 +1,1 @@
+î 2phpX/hrNwp-content/themes/twentytwentyfive/patterns/template-query-loop-photo-blog.php

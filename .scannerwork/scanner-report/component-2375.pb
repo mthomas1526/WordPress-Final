@@ -1,0 +1,1 @@
+Ç 2phpXhrLwp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-gallery.php

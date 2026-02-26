@@ -1,0 +1,1 @@
+² 2phpXŸ	hr-wp-includes/class-wp-image-editor-imagick.php

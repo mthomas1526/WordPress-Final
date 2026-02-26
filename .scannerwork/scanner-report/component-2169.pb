@@ -1,0 +1,1 @@
+ù 2phpXhrIwp-content/themes/twentytwentyfour/patterns/template-search-portfolio.php

@@ -1,0 +1,1 @@
+¼ 2phpX3hr,wp-content/themes/twentytwentyone/single.php

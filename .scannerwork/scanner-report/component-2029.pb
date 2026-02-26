@@ -1,0 +1,1 @@
+í 2phpX?hrMwp-content/themes/twentytwentyfive/patterns/template-query-loop-news-blog.php

@@ -1,0 +1,1 @@
+ê 2phpX!hrMwp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php

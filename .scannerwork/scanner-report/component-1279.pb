@@ -1,0 +1,1 @@
+ÿ	 2cssXhrMwp-content/themes/twentynineteen/sass/navigation/_menu-footer-navigation.scss

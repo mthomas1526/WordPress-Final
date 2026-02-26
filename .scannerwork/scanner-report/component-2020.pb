@@ -1,0 +1,1 @@
+ä 2phpX1hrUwp-content/themes/twentytwentyfive/patterns/template-archive-vertical-header-blog.php

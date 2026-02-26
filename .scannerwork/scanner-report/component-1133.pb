@@ -1,0 +1,1 @@
+í 2phpX!hr(wp-content/themes/twentyfourteen/404.php

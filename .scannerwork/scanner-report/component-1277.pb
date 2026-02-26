@@ -1,0 +1,1 @@
+ý	 2cssXhr=wp-content/themes/twentynineteen/sass/modules/_clearings.scss

@@ -1,0 +1,1 @@
+ð 2phpX4hrXwp-content/themes/twentytwentyfive/patterns/template-query-loop-vertical-header-blog.php

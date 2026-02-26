@@ -1,0 +1,1 @@
+Ó 2phpXhrJwp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php

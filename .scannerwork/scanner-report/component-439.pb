@@ -1,0 +1,1 @@
+· 2cssXhrwp-admin/css/install.min.css

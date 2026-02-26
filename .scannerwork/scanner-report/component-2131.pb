@@ -1,0 +1,1 @@
+Ó 2phpX‚hr6wp-content/themes/twentytwentyfour/patterns/footer.php

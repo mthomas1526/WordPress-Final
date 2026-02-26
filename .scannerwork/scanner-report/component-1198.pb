@@ -1,0 +1,1 @@
+®	 2phpXJhr7wp-content/themes/twentyfourteen/inc/block-patterns.php

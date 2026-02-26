@@ -1,0 +1,1 @@
+Ã	 2phpXhr3wp-content/themes/twentyfourteen/sidebar-footer.php

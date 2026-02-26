@@ -1,0 +1,1 @@
+× 2phpXhrawp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php

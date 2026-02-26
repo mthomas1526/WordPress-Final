@@ -1,0 +1,1 @@
+Ô 2phpX#hrDwp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php

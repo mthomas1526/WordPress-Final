@@ -1,0 +1,1 @@
+È	 2phpXWhr9wp-content/themes/twentyfourteen/taxonomy-post_format.php

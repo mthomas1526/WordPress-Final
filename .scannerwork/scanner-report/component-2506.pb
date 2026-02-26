@@ -1,0 +1,1 @@
+Ê 2phpX0hrJwp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php

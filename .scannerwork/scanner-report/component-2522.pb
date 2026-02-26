@@ -1,0 +1,1 @@
+Ú 2phpXhrTwp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php

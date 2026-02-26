@@ -1,0 +1,1 @@
+å 2cssX+hrKwp-content/themes/twentytwentyone/assets/sass/05-blocks/legacy/_editor.scss

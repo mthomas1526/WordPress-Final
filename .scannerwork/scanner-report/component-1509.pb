@@ -1,0 +1,1 @@
+å 2jsXhr?wp-content/themes/twentysixteen/js/keyboard-image-navigation.js

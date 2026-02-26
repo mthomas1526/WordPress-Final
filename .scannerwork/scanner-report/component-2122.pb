@@ -1,0 +1,1 @@
+Ê 2phpX9hr;wp-content/themes/twentytwentyfour/patterns/banner-hero.php

@@ -1,0 +1,1 @@
+Ì 2phpXDhrJwp-content/themes/twentytwentyfour/patterns/cta-content-image-on-right.php

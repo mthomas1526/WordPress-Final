@@ -1,0 +1,1 @@
+³, 2jsXhr4wp-includes/js/tinymce/plugins/wpemoji/plugin.min.js

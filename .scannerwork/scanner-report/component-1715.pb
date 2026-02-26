@@ -1,0 +1,1 @@
+³ 2phpXGhr*wp-content/themes/twentytwelve/archive.php

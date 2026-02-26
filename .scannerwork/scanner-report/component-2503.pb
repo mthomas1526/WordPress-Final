@@ -1,0 +1,1 @@
+Ç 2phpX†hrFwp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php

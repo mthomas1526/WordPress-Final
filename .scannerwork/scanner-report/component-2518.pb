@@ -1,0 +1,1 @@
+Ö 2phpXhrXwp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php

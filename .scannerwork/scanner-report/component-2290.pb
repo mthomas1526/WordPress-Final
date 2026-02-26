@@ -1,0 +1,1 @@
+ò 2cssXwhrMwp-content/themes/twentytwentyone/assets/sass/05-blocks/pullquote/_style.scss

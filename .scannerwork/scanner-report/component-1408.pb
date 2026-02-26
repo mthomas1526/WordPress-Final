@@ -1,0 +1,1 @@
+€ 2phpX;hrLwp-content/themes/twentyseventeen/template-parts/page/content-front-page.php

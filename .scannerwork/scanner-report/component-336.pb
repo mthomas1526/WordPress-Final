@@ -1,0 +1,1 @@
+Ð 2phpXÎhr"wp-admin/authorize-application.php

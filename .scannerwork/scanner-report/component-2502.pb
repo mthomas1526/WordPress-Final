@@ -1,0 +1,1 @@
+Æ 2phpXhrVwp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php

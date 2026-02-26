@@ -1,0 +1,1 @@
+÷ 2cssXhr+wp-includes/blocks/paragraph/editor-rtl.css

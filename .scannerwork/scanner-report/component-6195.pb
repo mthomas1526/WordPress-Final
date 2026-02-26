@@ -1,0 +1,1 @@
+³0 2phpXÖhr?wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php

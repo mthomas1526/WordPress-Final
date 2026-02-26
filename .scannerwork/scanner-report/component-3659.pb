@@ -1,0 +1,1 @@
+Ë 2phpXêhr wp-includes/class-wp-rewrite.php

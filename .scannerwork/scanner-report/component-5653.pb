@@ -1,0 +1,1 @@
+•, 2jsXhr5wp-includes/js/tinymce/plugins/compat3x/plugin.min.js

@@ -1,0 +1,1 @@
+÷ 2phpXhrHwp-content/themes/twentytwentyfour/patterns/template-index-portfolio.php

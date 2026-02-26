@@ -1,0 +1,1 @@
+ï 2phpXNhrJwp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php

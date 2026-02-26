@@ -1,0 +1,1 @@
+— 2cssXhr1wp-includes/blocks/latest-posts/style-rtl.min.css

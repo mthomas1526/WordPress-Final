@@ -1,0 +1,1 @@
+Ù 2phpXhr>wp-content/themes/twentytwentyfive/patterns/page-shop-home.php

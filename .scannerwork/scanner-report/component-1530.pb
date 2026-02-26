@@ -1,0 +1,1 @@
+ú 2phpXVhr&wp-content/themes/twentyten/author.php

@@ -1,0 +1,1 @@
+ü 2phpXuhrGwp-content/themes/twentytwentyfour/patterns/text-alternating-images.php

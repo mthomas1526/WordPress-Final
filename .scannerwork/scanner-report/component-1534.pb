@@ -1,0 +1,1 @@
+þ 2phpX`hr(wp-content/themes/twentyten/comments.php

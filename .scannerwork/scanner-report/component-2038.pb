@@ -1,0 +1,1 @@
+ö 2phpXqhrTwp-content/themes/twentytwentyfive/patterns/template-single-left-aligned-content.php

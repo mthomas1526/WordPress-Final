@@ -1,0 +1,1 @@
+ß 2phpXhrDwp-content/themes/twentytwentyfour/patterns/hidden-posts-heading.php

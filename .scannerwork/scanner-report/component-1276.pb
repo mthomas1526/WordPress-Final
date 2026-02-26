@@ -1,0 +1,1 @@
+ü	 2cssXhr>wp-content/themes/twentynineteen/sass/modules/_alignments.scss

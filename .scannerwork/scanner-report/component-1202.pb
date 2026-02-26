@@ -1,0 +1,1 @@
+²	 2phpXˆhr6wp-content/themes/twentyfourteen/inc/template-tags.php

@@ -1,0 +1,1 @@
+–, 2jsXChr7wp-includes/js/tinymce/plugins/directionality/plugin.js

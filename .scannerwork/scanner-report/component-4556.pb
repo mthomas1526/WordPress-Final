@@ -1,0 +1,1 @@
+Ì# 2phpX›hrAwp-includes/customize/class-wp-customize-header-image-control.php

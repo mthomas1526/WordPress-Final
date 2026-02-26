@@ -1,0 +1,1 @@
+Ð 2phpXhrZwp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php

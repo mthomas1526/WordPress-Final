@@ -1,0 +1,1 @@
+Ê 2phpXhrJwp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-quote.php

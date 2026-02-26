@@ -1,0 +1,1 @@
+Ì 2phpX™hr'wp-includes/block-supports/settings.php

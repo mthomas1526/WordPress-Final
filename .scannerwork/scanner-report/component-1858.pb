@@ -1,0 +1,1 @@
+Â 2phpXhr@wp-content/themes/twentytwenty/templates/template-full-width.php

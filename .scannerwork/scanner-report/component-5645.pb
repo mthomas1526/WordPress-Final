@@ -1,0 +1,1 @@
+ç, 2jsXÖhr+wp-includes/js/tinymce/langs/wp-langs-en.js

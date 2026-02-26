@@ -1,0 +1,1 @@
+¤ 2phpX6hrWwp-content/themes/twentytwentyfive/patterns/banner-with-description-and-images-grid.php

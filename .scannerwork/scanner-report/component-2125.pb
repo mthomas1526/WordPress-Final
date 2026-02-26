@@ -1,0 +1,1 @@
+Í 2phpXØhr;wp-content/themes/twentytwentyfour/patterns/cta-pricing.php

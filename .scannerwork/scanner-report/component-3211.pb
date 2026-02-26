@@ -1,0 +1,1 @@
+‹ 2cssXhr5wp-includes/blocks/query-pagination/style-rtl.min.css

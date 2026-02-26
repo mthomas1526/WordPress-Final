@@ -1,0 +1,1 @@
+á 2phpX(hrJwp-content/themes/twentytwentyfive/patterns/template-archive-news-blog.php

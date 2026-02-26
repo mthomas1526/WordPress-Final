@@ -1,0 +1,1 @@
+è 2cssXhr.wp-includes/blocks/site-logo/style-rtl.min.css

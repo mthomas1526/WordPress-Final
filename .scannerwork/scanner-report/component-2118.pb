@@ -1,0 +1,1 @@
+Æ 2webXhr4wp-content/themes/twentytwentyfour/parts/footer.html

@@ -1,0 +1,1 @@
+ä 2phpX”	hr2wp-admin/includes/class-wp-comments-list-table.php

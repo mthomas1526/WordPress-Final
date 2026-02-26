@@ -1,0 +1,1 @@
+…+ 2jsXhr1wp-includes/js/jquery/jquery.table-hotkeys.min.js

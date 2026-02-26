@@ -1,0 +1,1 @@
+ˆ 2cssXhr'wp-includes/blocks/avatar/style.min.css

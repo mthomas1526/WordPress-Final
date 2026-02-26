@@ -1,0 +1,1 @@
+‚ 2phpX<hrKwp-content/themes/twentytwentyfour/patterns/text-title-left-image-right.php

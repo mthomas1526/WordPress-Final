@@ -1,0 +1,1 @@
+¥	 2phpXShr*wp-content/themes/twentyfourteen/image.php

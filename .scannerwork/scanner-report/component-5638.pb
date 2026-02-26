@@ -1,0 +1,1 @@
+†, 2jsXhr(wp-includes/js/swfupload/handlers.min.js

@@ -1,0 +1,1 @@
+±, 2jsXhr8wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js

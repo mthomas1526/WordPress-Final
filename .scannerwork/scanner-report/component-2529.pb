@@ -1,0 +1,1 @@
+á 2phpXhr>wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php

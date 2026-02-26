@@ -1,0 +1,1 @@
+Å 2cssX≤hr+wp-content/themes/twentytwentytwo/style.css

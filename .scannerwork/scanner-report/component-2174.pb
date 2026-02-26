@@ -1,0 +1,1 @@
+þ 2phpXhrGwp-content/themes/twentytwentyfour/patterns/text-centered-statement.php

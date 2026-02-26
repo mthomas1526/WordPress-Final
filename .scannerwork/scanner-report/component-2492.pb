@@ -1,0 +1,1 @@
+¼ 2phpXhrDwp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php

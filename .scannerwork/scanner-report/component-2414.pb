@@ -1,0 +1,1 @@
+î 2phpXhr?wp-content/themes/twentytwentythree/patterns/hidden-heading.php

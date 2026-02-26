@@ -1,0 +1,1 @@
+¹ 2phpXhrAwp-content/themes/twentytwentytwo/inc/patterns/footer-default.php

@@ -1,0 +1,1 @@
+é 2phpX*hrIwp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php

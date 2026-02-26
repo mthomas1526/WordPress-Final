@@ -1,0 +1,1 @@
+÷ 2phpX hrBwp-content/themes/twentytwentytwo/inc/patterns/query-text-grid.php

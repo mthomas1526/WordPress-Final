@@ -1,0 +1,1 @@
+× 2phpX—hrPwp-content/themes/twentytwentyfour/patterns/gallery-offset-images-grid-4-col.php

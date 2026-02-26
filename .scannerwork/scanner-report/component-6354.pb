@@ -1,0 +1,1 @@
+Ò1 2phpX†hr5wp-includes/widgets/class-wp-widget-media-gallery.php

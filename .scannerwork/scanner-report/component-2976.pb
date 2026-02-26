@@ -1,0 +1,1 @@
+  2cssX5hr!wp-includes/blocks/list/style.css

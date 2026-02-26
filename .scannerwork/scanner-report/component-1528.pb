@@ -1,0 +1,1 @@
+ø 2phpXGhr'wp-content/themes/twentyten/archive.php

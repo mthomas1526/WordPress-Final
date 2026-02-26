@@ -1,0 +1,1 @@
+÷	 2cssX5hr;wp-content/themes/twentynineteen/sass/media/_galleries.scss

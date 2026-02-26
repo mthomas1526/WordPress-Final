@@ -1,0 +1,1 @@
+Ù- 2phpXŸhr@wp-includes/php-ai-client/src/Providers/DTO/ProviderMetadata.php

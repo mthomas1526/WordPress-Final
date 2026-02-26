@@ -1,0 +1,1 @@
+  2phpX$hrHwp-content/themes/twentytwentyfive/patterns/banner-cover-big-heading.php

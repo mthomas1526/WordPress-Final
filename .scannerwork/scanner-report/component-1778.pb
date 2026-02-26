@@ -1,0 +1,1 @@
+ò 2phpXqhr5wp-content/themes/twentytwelve/inc/block-patterns.php

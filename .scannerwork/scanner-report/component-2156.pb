@@ -1,0 +1,1 @@
+ì 2phpXRhr@wp-content/themes/twentytwentyfour/patterns/posts-grid-2-col.php

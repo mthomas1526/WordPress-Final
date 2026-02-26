@@ -1,0 +1,1 @@
+Í 2cssXhr3wp-includes/blocks/term-template/editor-rtl.min.css

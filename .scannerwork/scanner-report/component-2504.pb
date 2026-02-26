@@ -1,0 +1,1 @@
+È 2phpX^hrHwp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php

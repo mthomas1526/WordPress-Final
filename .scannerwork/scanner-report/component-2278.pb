@@ -1,0 +1,1 @@
+æ 2cssX8hrJwp-content/themes/twentytwentyone/assets/sass/05-blocks/legacy/_style.scss

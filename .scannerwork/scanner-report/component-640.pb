@@ -1,0 +1,1 @@
+€ 2phpXîhr(wp-admin/includes/class-wp-site-icon.php

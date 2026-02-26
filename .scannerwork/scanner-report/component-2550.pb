@@ -1,0 +1,1 @@
+ö 2phpX'hrDwp-content/themes/twentytwentytwo/inc/patterns/query-simple-blog.php

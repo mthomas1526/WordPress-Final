@@ -1,0 +1,1 @@
+ÿ 2phpX%hr0wp-content/themes/twentytwelve/sidebar-front.php

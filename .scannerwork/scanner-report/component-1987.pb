@@ -1,0 +1,1 @@
+Ã 2phpX*hrEwp-content/themes/twentytwentyfive/patterns/hero-full-width-image.php

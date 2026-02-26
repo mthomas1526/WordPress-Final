@@ -1,0 +1,1 @@
+ð 2phpXBhrFwp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-poster.php

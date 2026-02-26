@@ -1,0 +1,1 @@
+¹ 2jsX%hr@wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js

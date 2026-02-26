@@ -1,0 +1,1 @@
+Ï 2phpXhrGwp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php

@@ -1,0 +1,1 @@
+á 2phpXUhr>wp-content/themes/twentytwentyfour/patterns/hidden-sidebar.php

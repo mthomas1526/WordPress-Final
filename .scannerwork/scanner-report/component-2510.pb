@@ -1,0 +1,1 @@
+Î 2phpXhrXwp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php

@@ -1,0 +1,1 @@
+ø) 2phpXhrOwp-includes/js/dist/script-modules/interactivity-router/full-page.min.asset.php

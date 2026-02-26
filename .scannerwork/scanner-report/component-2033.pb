@@ -1,0 +1,1 @@
+ñ 2phpX/hrCwp-content/themes/twentytwentyfive/patterns/template-query-loop.php

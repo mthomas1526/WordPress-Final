@@ -1,0 +1,1 @@
+û- 2phpX@hrGwp-includes/php-ai-client/src/Providers/Models/Enums/CapabilityEnum.php

@@ -1,0 +1,1 @@
+µ 2phpXUhr>wp-content/themes/twentytwentyfive/patterns/footer-columns.php

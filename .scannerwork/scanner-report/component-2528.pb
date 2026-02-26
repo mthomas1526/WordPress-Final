@@ -1,0 +1,1 @@
+à 2phpXhr=wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php

@@ -1,0 +1,1 @@
+Š 2webX&hr6wp-content/themes/twentytwentytwo/templates/index.html

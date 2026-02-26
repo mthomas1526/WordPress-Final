@@ -1,0 +1,1 @@
+ž 2cssXhr*wp-includes/blocks/table/style-rtl.min.css

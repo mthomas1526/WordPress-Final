@@ -1,0 +1,1 @@
+Ã 2phpXhrIwp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php

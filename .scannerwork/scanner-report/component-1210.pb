@@ -1,0 +1,1 @@
+º	 2jsX×hr-wp-content/themes/twentyfourteen/js/slider.js

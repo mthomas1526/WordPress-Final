@@ -1,0 +1,1 @@
+ç 2phpX)hrIwp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php

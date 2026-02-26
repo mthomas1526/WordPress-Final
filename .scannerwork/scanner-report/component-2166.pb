@@ -1,0 +1,1 @@
+ö 2phpXhrGwp-content/themes/twentytwentyfour/patterns/template-index-blogging.php

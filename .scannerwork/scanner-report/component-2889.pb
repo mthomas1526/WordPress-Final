@@ -1,0 +1,1 @@
+É 2cssXhr*wp-includes/blocks/freeform/editor.min.css

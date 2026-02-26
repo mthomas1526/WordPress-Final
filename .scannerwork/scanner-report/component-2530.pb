@@ -1,0 +1,1 @@
+â 2phpXhrJwp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php

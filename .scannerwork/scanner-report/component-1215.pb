@@ -1,0 +1,1 @@
+¿	 2cssXéhr(wp-content/themes/twentyfourteen/rtl.css

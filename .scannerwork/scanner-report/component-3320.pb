@@ -1,0 +1,1 @@
+ø 2cssXhr0wp-includes/blocks/site-title/editor-rtl.min.css

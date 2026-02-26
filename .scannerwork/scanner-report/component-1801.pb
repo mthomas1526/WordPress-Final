@@ -1,0 +1,1 @@
+‰ 2cssXÉhrFwp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css

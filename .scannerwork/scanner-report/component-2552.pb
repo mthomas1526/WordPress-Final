@@ -1,0 +1,1 @@
+ø 2phpXhr+wp-content/themes/twentytwentytwo/index.php

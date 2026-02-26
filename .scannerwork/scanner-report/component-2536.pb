@@ -1,0 +1,1 @@
+è 2phpX.hrIwp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php

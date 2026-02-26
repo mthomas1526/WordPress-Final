@@ -1,0 +1,1 @@
+á 2cssXhr*wp-includes/blocks/verse/style-rtl.min.css

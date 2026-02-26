@@ -1,0 +1,1 @@
+Û 2phpXhrUwp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php

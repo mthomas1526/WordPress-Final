@@ -1,0 +1,1 @@
+â 2phpXhrKwp-content/themes/twentytwentyfive/patterns/template-archive-photo-blog.php

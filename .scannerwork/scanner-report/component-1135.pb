@@ -1,0 +1,1 @@
+ï 2phpXMhr+wp-content/themes/twentyfourteen/author.php

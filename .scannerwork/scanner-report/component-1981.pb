@@ -1,0 +1,1 @@
+½ 2phpXhr?wp-content/themes/twentytwentyfive/patterns/header-centered.php

@@ -1,0 +1,1 @@
+î 2phpXUhrNwp-content/themes/twentytwentyfour/patterns/posts-images-only-offset-4-col.php

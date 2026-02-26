@@ -1,0 +1,1 @@
+Å 2phpX,hr+wp-content/themes/twentythirteen/footer.php

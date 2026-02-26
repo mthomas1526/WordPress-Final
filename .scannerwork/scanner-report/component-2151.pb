@@ -1,0 +1,1 @@
+ç 2phpX1hrGwp-content/themes/twentytwentyfour/patterns/page-newsletter-landing.php

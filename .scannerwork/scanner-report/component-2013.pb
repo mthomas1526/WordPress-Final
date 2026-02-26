@@ -1,0 +1,1 @@
+Ý 2phpXPhr>wp-content/themes/twentytwentyfive/patterns/services-3-col.php

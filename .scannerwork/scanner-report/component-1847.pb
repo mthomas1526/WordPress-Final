@@ -1,0 +1,1 @@
+· 2phpXÁhr?wp-content/themes/twentytwenty/template-parts/content-cover.php

@@ -1,0 +1,1 @@
+Ø 2phpXehr)wp-content/themes/twentyfifteen/image.php

@@ -1,0 +1,1 @@
+½ 2phpX*hrUwp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php

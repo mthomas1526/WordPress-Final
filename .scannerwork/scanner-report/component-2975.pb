@@ -1,0 +1,1 @@
+Ÿ 2cssXhr)wp-includes/blocks/list/style-rtl.min.css

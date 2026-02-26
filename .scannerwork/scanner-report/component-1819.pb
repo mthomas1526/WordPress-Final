@@ -1,0 +1,1 @@
+› 2jsXŒhr1wp-content/themes/twentytwenty/assets/js/index.js

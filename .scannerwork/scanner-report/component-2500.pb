@@ -1,0 +1,1 @@
+Ä 2phpXhrMwp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php

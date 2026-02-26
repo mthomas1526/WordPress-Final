@@ -1,0 +1,1 @@
+© 2phpX,hrIwp-content/themes/twentytwentyfive/patterns/contact-location-and-link.php

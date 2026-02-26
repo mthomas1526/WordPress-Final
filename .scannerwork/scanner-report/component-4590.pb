@@ -1,0 +1,1 @@
+î# 2phpXžhr wp-includes/error-protection.php
