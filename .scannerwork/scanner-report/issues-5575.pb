@@ -1,0 +1,107 @@
+J
+
+javascriptS3504)Unexpected var, use let or const instead.2KK @J
+
+javascriptS3504)Unexpected var, use let or const instead.2[[ 
+@>
+
+javascriptS7740Do not assign `this` to `that`.2\\ L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ìì 
+@@
+
+javascriptS7740Do not assign `this` to `that`.2
+ìì L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+≥≥ @b
+
+javascriptS1121AExtract the assignment of "this.buttonItem" from this expression.2
+’’ L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+·· 
+@@
+
+javascriptS7735Unexpected negated condition.2
+ÑÑ @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+∑∑ @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+¿¿ 
+@@
+
+javascriptS7740Do not assign `this` to `that`.2
+¿¿ L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ƒƒ 	@L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+›› @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+¯¯ 
+@L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ññ @E
+
+javascriptS7764"Prefer `globalThis` over `window`.2
+úú @E
+
+javascriptS7764"Prefer `globalThis` over `window`.2
+ùù @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ΩΩ @E
+
+javascriptS7764"Prefer `globalThis` over `window`.2
+øø @E
+
+javascriptS7764"Prefer `globalThis` over `window`.2
+¿¿ @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+—— @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+åå 
+@L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ìì @b
+
+javascriptS1121AExtract the assignment of "this.buttonItem" from this expression.2
+óó/ 0L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+££ @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ÆÆ @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+œœ @~
+
+javascriptS6582[Prefer using an optional chain expression instead, as it's more concise and easier to read.2
+◊◊  @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+ÚÚ @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+èè @L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+óó 
+@@
+
+javascriptS7740Do not assign `this` to `that`.2
+óó L
+
+javascriptS3504)Unexpected var, use let or const instead.2
+†† @

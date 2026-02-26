@@ -1,0 +1,1 @@
+®0 2phpXWhr3wp-includes/sitemaps/class-wp-sitemaps-registry.php

@@ -1,0 +1,1 @@
+‡ 2webX(hr8wp-content/themes/twentytwentytwo/templates/archive.html

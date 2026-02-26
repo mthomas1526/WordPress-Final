@@ -1,0 +1,1 @@
+ú 2phpX2hrIwp-content/themes/twentytwentyfive/patterns/template-single-text-blog.php

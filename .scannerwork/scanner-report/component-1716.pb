@@ -1,0 +1,1 @@
+´ 2phpXehr)wp-content/themes/twentytwelve/author.php

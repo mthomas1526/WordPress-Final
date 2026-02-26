@@ -1,0 +1,1 @@
+¢/ 2phpX±hrJwp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php

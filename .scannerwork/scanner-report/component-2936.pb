@@ -1,0 +1,1 @@
+ø 2cssXhr)wp-includes/blocks/icon/style-rtl.min.css

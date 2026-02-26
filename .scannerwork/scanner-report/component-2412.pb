@@ -1,0 +1,1 @@
+ì 2phpXhr;wp-content/themes/twentytwentythree/patterns/hidden-404.php

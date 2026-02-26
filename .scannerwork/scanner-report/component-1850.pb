@@ -1,0 +1,1 @@
+º 2phpXQhr>wp-content/themes/twentytwenty/template-parts/entry-header.php

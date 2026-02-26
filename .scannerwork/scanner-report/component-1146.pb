@@ -1,0 +1,1 @@
+ú 2phpXDhr2wp-content/themes/twentyfourteen/content-quote.php

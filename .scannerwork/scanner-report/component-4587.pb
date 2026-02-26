@@ -1,0 +1,1 @@
+ë# 2phpXƒ3hrwp-includes/deprecated.php

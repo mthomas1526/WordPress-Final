@@ -1,0 +1,1 @@
+÷ 2jsXBhr5wp-content/themes/twentytwelve/js/theme-customizer.js

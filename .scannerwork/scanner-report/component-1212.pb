@@ -1,0 +1,1 @@
+¼	 2phpX,hr>wp-content/themes/twentyfourteen/page-templates/full-width.php

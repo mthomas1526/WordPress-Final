@@ -1,0 +1,1 @@
+Ö 2phpXphrPwp-content/themes/twentytwentyfour/patterns/gallery-offset-images-grid-3-col.php

@@ -1,0 +1,1 @@
+ø 2phpX'hr<wp-content/themes/twentytwelve/page-templates/front-page.php

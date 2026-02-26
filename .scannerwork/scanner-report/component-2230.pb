@@ -1,0 +1,1 @@
+¶ 2jsX8hrBwp-content/themes/twentytwentyone/assets/js/palette-colorpicker.js

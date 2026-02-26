@@ -1,0 +1,1 @@
+©, 2jsXhr6wp-includes/js/tinymce/plugins/textcolor/plugin.min.js

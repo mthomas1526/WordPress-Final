@@ -1,0 +1,10 @@
+# Configure here general information about the environment, such as the server connection details for example
+# No information about specific project should appear here
+
+#----- SonarQube server URL (default to SonarCloud)
+sonar.projectKey=Wordpress-Final
+sonar.projectName=Wordpress Final
+sonar.projectVersion=1.0
+sonar.sources=.
+sonar.host.url=http://localhost:9000
+sonar.token=sqp_77b832b9560908376920a9d16dcc5fa006fd0459

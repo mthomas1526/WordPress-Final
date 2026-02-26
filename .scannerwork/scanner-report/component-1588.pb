@@ -1,0 +1,1 @@
+´ 2phpX>hr4wp-content/themes/twentythirteen/content-gallery.php

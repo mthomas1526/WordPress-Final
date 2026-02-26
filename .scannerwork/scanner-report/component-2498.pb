@@ -1,0 +1,1 @@
+Â 2phpXhrHwp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php

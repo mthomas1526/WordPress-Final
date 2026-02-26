@@ -1,0 +1,1 @@
+¼ 2cssXhr2wp-includes/blocks/post-excerpt/editor-rtl.min.css

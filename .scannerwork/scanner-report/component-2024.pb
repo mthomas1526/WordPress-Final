@@ -1,0 +1,1 @@
+è 2phpXhrGwp-content/themes/twentytwentyfive/patterns/template-home-text-blog.php

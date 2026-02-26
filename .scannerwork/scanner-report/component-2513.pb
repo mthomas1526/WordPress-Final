@@ -1,0 +1,1 @@
+Ñ 2phpXhrAwp-content/themes/twentytwentytwo/inc/patterns/header-default.php

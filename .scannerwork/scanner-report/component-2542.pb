@@ -1,0 +1,1 @@
+î 2phpXPhrJwp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php

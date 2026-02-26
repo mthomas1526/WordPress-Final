@@ -1,0 +1,1 @@
+ë 2phpXŒhrwp-admin/setup-config.php

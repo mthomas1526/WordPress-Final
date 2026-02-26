@@ -1,0 +1,1 @@
+÷ 2phpXŽhrIwp-content/themes/twentytwentyfive/patterns/template-single-news-blog.php

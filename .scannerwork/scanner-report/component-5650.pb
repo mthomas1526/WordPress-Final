@@ -1,0 +1,1 @@
+’, 2jsXhr8wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js

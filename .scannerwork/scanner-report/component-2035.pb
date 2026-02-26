@@ -1,0 +1,1 @@
+ó 2phpXhrJwp-content/themes/twentytwentyfive/patterns/template-search-photo-blog.php

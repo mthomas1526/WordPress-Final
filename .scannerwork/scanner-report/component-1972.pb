@@ -1,0 +1,1 @@
+´ 2phpX)hr?wp-content/themes/twentytwentyfive/patterns/footer-centered.php

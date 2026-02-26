@@ -1,0 +1,1 @@
+ñ 2phpXéhrwp-admin/theme-install.php

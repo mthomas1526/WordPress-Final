@@ -1,0 +1,1 @@
+æ 2phpX*hrHwp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php

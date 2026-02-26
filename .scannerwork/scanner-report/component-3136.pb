@@ -1,0 +1,1 @@
+À 2cssXhr1wp-includes/blocks/post-excerpt/style-rtl.min.css

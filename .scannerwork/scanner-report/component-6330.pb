@@ -1,0 +1,1 @@
+º1 2phpXhr)wp-includes/theme-compat/footer-embed.php

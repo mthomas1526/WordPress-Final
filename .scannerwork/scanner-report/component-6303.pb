@@ -1,0 +1,1 @@
+Ÿ1 2phpXÐhr&wp-includes/sodium_compat/src/File.php

@@ -1,0 +1,1 @@
+¿ 2phpXhrJwp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php

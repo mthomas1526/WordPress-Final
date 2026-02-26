@@ -1,0 +1,1 @@
+Ð 2phpXKhr*wp-content/themes/twentysixteen/footer.php

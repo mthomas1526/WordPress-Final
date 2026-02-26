@@ -1,0 +1,1 @@
+€ 2cssXdhrIwp-content/themes/twentytwentyone/assets/sass/05-blocks/table/_style.scss

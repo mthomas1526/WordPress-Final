@@ -1,0 +1,1 @@
+², 2jsX‡hr0wp-includes/js/tinymce/plugins/wpemoji/plugin.js

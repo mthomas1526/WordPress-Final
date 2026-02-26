@@ -1,0 +1,1 @@
+ý 2phpX hrMwp-content/themes/twentytwentyfour/patterns/text-centered-statement-small.php

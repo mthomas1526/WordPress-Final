@@ -1,0 +1,1 @@
+Õ 2cssXuhrIwp-content/themes/twentytwentyone/assets/sass/05-blocks/cover/_style.scss

@@ -1,0 +1,1 @@
+Ð 2phpX,hrFwp-content/themes/twentytwentyfour/patterns/cta-subscribe-centered.php

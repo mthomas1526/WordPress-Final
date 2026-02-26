@@ -1,0 +1,1 @@
+å 2phpXhrKwp-content/themes/twentytwentyfour/patterns/page-home-portfolio-gallery.php

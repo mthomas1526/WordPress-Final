@@ -1,0 +1,1 @@
+ÿ 2cssXZhrJwp-content/themes/twentytwentyone/assets/sass/05-blocks/table/_editor.scss

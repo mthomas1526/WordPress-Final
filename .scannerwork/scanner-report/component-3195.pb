@@ -1,0 +1,1 @@
+û 2cssXhr.wp-includes/blocks/pullquote/theme-rtl.min.css

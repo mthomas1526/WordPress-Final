@@ -1,0 +1,1 @@
+ø 2phpXhrHwp-content/themes/twentytwentyfour/patterns/template-search-blogging.php

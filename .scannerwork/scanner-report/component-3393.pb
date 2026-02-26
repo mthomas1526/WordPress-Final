@@ -1,0 +1,1 @@
+Á 2cssXhr5wp-includes/blocks/term-description/style-rtl.min.css

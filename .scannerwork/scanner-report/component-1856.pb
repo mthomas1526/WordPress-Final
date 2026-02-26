@@ -1,0 +1,1 @@
+À 2phpXChr<wp-content/themes/twentytwenty/template-parts/pagination.php

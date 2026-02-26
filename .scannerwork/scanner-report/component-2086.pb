@@ -1,0 +1,1 @@
+¦ 2webXhr9wp-content/themes/twentytwentyfive/templates/archive.html

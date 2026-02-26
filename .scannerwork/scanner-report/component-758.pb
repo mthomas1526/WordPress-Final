@@ -1,0 +1,1 @@
+ö 2jsXhr!wp-admin/js/set-post-thumbnail.js

@@ -1,0 +1,1 @@
+ð 2phpXƒhr:wp-content/themes/twentytwentyfour/patterns/team-4-col.php

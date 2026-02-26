@@ -1,0 +1,1 @@
+· 2phpXhr0wp-includes/block-patterns/query-small-posts.php

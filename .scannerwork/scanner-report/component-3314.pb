@@ -1,0 +1,1 @@
+ò 2cssXhr1wp-includes/blocks/site-tagline/style-rtl.min.css

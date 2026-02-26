@@ -1,0 +1,1 @@
+Ì 2phpXèhr(wp-content/themes/twentytwelve/image.php

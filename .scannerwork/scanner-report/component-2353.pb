@@ -1,0 +1,1 @@
+± 2phpXãhr<wp-content/themes/twentytwentyone/inc/template-functions.php

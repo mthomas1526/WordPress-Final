@@ -1,0 +1,1 @@
+Ô 2phpXhrIwp-content/themes/twentytwentyfour/patterns/gallery-full-screen-image.php

@@ -1,0 +1,1 @@
+Í 2phpXhrDwp-content/themes/twentytwentyone/template-parts/excerpt/excerpt.php

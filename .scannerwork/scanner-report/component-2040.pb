@@ -1,0 +1,1 @@
+ø 2phpX^hrFwp-content/themes/twentytwentyfive/patterns/template-single-offset.php

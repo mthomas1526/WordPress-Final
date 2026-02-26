@@ -1,0 +1,1 @@
+°, 2jsX…hr4wp-includes/js/tinymce/plugins/wpeditimage/plugin.js

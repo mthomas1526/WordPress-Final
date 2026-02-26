@@ -1,0 +1,1 @@
+æ 2phpX"hrHwp-content/themes/twentytwentyfive/patterns/template-home-photo-blog.php

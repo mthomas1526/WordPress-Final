@@ -1,0 +1,1 @@
+‰ 2webX&hr5wp-content/themes/twentytwentytwo/templates/home.html

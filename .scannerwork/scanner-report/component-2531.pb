@@ -1,0 +1,1 @@
+ã 2phpXPhrUwp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php

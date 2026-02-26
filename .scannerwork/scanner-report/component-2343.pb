@@ -1,0 +1,1 @@
+§ 2phpXRhr,wp-content/themes/twentytwentyone/footer.php

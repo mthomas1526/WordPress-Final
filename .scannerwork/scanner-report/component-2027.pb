@@ -1,0 +1,1 @@
+ë 2phpXhrHwp-content/themes/twentytwentyfive/patterns/template-page-photo-blog.php

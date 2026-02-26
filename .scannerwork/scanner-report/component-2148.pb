@@ -1,0 +1,1 @@
+ä 2phpXhrBwp-content/themes/twentytwentyfour/patterns/page-home-business.php

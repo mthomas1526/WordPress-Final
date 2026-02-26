@@ -1,0 +1,1 @@
+» 2phpXhrNwp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php

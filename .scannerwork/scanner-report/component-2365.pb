@@ -1,0 +1,1 @@
+½ 2cssXÑ-hr/wp-content/themes/twentytwentyone/style-rtl.css

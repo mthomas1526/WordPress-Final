@@ -1,0 +1,1 @@
+ë 2phpXBhrSwp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php

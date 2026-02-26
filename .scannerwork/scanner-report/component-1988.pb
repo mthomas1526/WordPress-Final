@@ -1,0 +1,1 @@
+Ä 2phpX|hrUwp-content/themes/twentytwentyfive/patterns/hero-overlapped-book-cover-with-links.php

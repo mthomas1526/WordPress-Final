@@ -1,0 +1,1 @@
+ï 2phpX0hrMwp-content/themes/twentytwentyfive/patterns/template-query-loop-text-blog.php

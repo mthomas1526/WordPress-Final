@@ -1,0 +1,1 @@
+Ë 2jsXhr*wp-includes/build/routes/template/route.js

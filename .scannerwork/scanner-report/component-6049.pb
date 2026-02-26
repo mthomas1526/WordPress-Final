@@ -1,0 +1,1 @@
+¡/ 2phpX¨hrTwp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php

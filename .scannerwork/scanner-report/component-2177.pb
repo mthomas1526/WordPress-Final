@@ -1,0 +1,1 @@
+Å 2phpX7hrDwp-content/themes/twentytwentyfour/patterns/text-project-details.php

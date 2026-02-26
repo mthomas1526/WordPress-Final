@@ -1,0 +1,1 @@
+Ø 2cssXhrLwp-content/themes/twentytwentyone/assets/sass/05-blocks/gallery/_editor.scss

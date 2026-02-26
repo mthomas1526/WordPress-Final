@@ -1,0 +1,1 @@
+— 2webX2hr8wp-content/themes/twentytwentyfour/templates/single.html

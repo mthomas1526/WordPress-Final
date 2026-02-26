@@ -1,0 +1,1 @@
+œ 2cssXhr'wp-includes/blocks/table/editor.min.css

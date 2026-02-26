@@ -1,0 +1,1 @@
+À/ 2phpX¶	hrEwp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php

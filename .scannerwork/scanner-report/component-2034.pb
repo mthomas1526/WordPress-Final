@@ -1,0 +1,1 @@
+ò 2phpX(hrIwp-content/themes/twentytwentyfive/patterns/template-search-news-blog.php

@@ -1,0 +1,1 @@
+Ý 2cssXBhrKwp-content/themes/twentytwentyone/assets/sass/05-blocks/heading/_style.scss

@@ -1,0 +1,1 @@
+‡ 2cssXhrIwp-content/themes/twentytwentyone/assets/sass/05-blocks/verse/_style.scss

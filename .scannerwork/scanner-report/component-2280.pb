@@ -1,0 +1,1 @@
+è 2cssX-hrHwp-content/themes/twentytwentyone/assets/sass/05-blocks/list/_style.scss

@@ -1,0 +1,1 @@
+ž 2webXhr=wp-content/themes/twentytwentyfive/parts/vertical-header.html

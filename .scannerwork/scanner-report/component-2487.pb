@@ -1,0 +1,1 @@
+· 2phpX8hr>wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php

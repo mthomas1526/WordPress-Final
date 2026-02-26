@@ -1,0 +1,1 @@
+¶ 2phpX=hrAwp-content/themes/twentytwentyfive/patterns/footer-newsletter.php

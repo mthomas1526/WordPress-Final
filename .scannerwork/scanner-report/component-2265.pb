@@ -1,0 +1,1 @@
+Ù 2cssX"hrKwp-content/themes/twentytwentyone/assets/sass/05-blocks/gallery/_style.scss

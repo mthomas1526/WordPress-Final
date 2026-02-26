@@ -1,0 +1,1 @@
+Â 2phpX-hrKwp-content/themes/twentytwentyone/template-parts/content/content-single.php

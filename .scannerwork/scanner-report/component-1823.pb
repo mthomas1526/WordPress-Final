@@ -1,0 +1,1 @@
+Ÿ 2phpXPhrKwp-content/themes/twentytwenty/classes/class-twentytwenty-script-loader.php

@@ -1,0 +1,1 @@
+ò 2phpXhrJwp-content/themes/twentytwentyfour/patterns/template-archive-portfolio.php

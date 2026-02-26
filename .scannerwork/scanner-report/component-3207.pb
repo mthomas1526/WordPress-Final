@@ -1,0 +1,1 @@
+‡ 2cssXhr6wp-includes/blocks/query-pagination/editor-rtl.min.css

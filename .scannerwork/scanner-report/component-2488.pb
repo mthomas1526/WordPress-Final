@@ -1,0 +1,1 @@
+¸ 2phpXhr>wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php

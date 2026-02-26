@@ -1,0 +1,1 @@
+Ì/ 2phpX‹hrHwp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php

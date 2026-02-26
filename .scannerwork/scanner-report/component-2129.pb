@@ -1,0 +1,1 @@
+Ñ 2phpX!hrHwp-content/themes/twentytwentyfour/patterns/footer-centered-logo-nav.php

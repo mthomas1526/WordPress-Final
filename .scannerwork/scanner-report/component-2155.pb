@@ -1,0 +1,1 @@
+ë 2phpX6hr;wp-content/themes/twentytwentyfour/patterns/posts-3-col.php

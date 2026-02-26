@@ -1,0 +1,1 @@
+Ë 2phpX.hrJwp-content/themes/twentytwentyfour/patterns/banner-project-description.php

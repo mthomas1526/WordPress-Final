@@ -1,0 +1,1 @@
+Œ 2cssXhr-wp-includes/blocks/query-pagination/style.css

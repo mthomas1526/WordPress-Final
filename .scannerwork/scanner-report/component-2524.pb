@@ -1,0 +1,1 @@
+Ü 2phpXhrawp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php

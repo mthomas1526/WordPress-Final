@@ -1,0 +1,1 @@
+Í 2phpX*hrSwp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php

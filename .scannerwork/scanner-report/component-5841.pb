@@ -1,0 +1,1 @@
+Ñ- 2phpX$hrcwp-includes/php-ai-client/src/Providers/ApiBasedImplementation/Contracts/ApiBasedModelInterface.php

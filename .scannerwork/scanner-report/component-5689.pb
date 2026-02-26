@@ -1,0 +1,1 @@
+¹, 2jsXhr:wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js

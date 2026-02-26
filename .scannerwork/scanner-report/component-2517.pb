@@ -1,0 +1,1 @@
+Õ 2phpXhrYwp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php

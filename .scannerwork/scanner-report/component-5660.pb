@@ -1,0 +1,1 @@
+œ, 2jsXº	hr.wp-includes/js/tinymce/plugins/image/plugin.js

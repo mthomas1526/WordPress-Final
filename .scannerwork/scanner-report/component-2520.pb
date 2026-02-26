@@ -1,0 +1,1 @@
+Ø 2phpX hrDwp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php

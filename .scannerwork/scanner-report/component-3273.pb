@@ -1,0 +1,1 @@
+É 2cssXhr'wp-includes/blocks/search/style.min.css

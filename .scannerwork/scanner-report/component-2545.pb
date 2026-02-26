@@ -1,0 +1,1 @@
+ñ 2phpX3hr@wp-content/themes/twentytwentytwo/inc/patterns/query-default.php

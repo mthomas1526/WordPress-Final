@@ -1,0 +1,1 @@
+Ñ. 2phpXÊhr'wp-includes/post-thumbnail-template.php

@@ -1,0 +1,1 @@
+ª 2phpXrhr+wp-content/themes/twentytwentyone/image.php

@@ -1,0 +1,1 @@
+í 2phpXXhrPwp-content/themes/twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php

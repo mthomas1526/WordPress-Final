@@ -1,0 +1,1 @@
+Ã 2phpX‘hr%wp-includes/block-supports/colors.php

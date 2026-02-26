@@ -1,0 +1,1 @@
+ Xhr*sonarscanner/conf/sonar-scanner.properties

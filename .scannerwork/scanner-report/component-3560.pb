@@ -1,0 +1,1 @@
+è 2phpXŽhrwp-includes/class-avif-info.php

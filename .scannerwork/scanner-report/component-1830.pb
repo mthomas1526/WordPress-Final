@@ -1,0 +1,1 @@
+¦ 2phpXºhr,wp-content/themes/twentytwenty/functions.php

@@ -1,0 +1,1 @@
+Ž 2cssXÓhrFwp-content/themes/twentytwentyone/assets/sass/06-components/entry.scss

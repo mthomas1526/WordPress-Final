@@ -1,0 +1,1 @@
+þ 2phpXšhr0wp-includes/class-wp-block-bindings-registry.php

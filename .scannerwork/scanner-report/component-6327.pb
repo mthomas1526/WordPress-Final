@@ -1,0 +1,1 @@
+·1 2phpX%hr&wp-includes/theme-compat/embed-404.php

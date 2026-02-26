@@ -1,0 +1,1 @@
+Ù 2phpXhrAwp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php

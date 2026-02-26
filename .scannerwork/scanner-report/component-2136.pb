@@ -1,0 +1,1 @@
+Ø 2phpXChrFwp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php

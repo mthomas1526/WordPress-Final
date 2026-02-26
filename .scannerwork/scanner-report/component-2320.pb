@@ -1,0 +1,1 @@
+ê 2cssXUhrGwp-content/themes/twentytwentyone/assets/sass/06-components/footer.scss

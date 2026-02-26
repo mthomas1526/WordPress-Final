@@ -1,0 +1,1 @@
+›, 2jsXhr/wp-includes/js/tinymce/plugins/hr/plugin.min.js

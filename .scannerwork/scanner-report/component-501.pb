@@ -1,0 +1,1 @@
+õ 2phpXyhrwp-admin/freedoms.php

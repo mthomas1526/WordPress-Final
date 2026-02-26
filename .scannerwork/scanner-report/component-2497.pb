@@ -1,0 +1,1 @@
+Á 2phpXhrGwp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php

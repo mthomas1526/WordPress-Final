@@ -1,0 +1,1 @@
+– 2cssXƒhr'wp-includes/blocks/cover/editor-rtl.css

@@ -1,0 +1,1 @@
+É 2phpXhrDwp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php

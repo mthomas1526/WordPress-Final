@@ -1,0 +1,1 @@
+ñ 2cssXshrNwp-content/themes/twentytwentyone/assets/sass/05-blocks/pullquote/_editor.scss

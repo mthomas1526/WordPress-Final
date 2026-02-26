@@ -1,0 +1,1 @@
+Á 2phpX-hrPwp-content/themes/twentytwentyfive/patterns/heading-and-paragraph-with-image.php

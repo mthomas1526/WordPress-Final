@@ -1,0 +1,1 @@
+‚ 2cssXhr/wp-content/themes/twentytwentytwo/style.min.css

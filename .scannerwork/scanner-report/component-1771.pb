@@ -1,0 +1,1 @@
+ë 2phpXýhr,wp-content/themes/twentytwelve/functions.php

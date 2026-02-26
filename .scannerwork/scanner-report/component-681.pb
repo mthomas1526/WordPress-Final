@@ -1,0 +1,1 @@
+© 2phpXå	hrwp-admin/includes/theme.php

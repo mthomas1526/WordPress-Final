@@ -1,0 +1,1 @@
+ä 2phpX0hrHwp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php

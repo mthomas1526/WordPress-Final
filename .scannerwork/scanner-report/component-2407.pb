@@ -1,0 +1,1 @@
+ç 2webXhr5wp-content/themes/twentytwentythree/parts/footer.html

@@ -1,0 +1,1 @@
+¡ 2phpXÓhrGwp-content/themes/twentytwenty/classes/class-twentytwenty-svg-icons.php

@@ -1,0 +1,1 @@
+ì 2phpXJhrJwp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php

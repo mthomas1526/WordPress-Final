@@ -1,0 +1,1 @@
+Å 2phpXÃhr0wp-content/themes/twentytwentyfour/functions.php

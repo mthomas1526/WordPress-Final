@@ -1,0 +1,1 @@
+é 2phpX0hrRwp-content/themes/twentytwentyfive/patterns/template-home-vertical-header-blog.php

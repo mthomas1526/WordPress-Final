@@ -1,0 +1,1 @@
+£ 2phpXFhr=wp-content/themes/twentytwentyfive/patterns/banner-poster.php

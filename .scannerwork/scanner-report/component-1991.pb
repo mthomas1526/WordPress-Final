@@ -1,0 +1,1 @@
+Ç 2phpXhrCwp-content/themes/twentytwentyfive/patterns/hidden-blog-heading.php

@@ -1,0 +1,1 @@
+ÿ 2phpXchr9wp-content/themes/twentytwentyfive/patterns/text-faqs.php

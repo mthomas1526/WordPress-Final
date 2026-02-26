@@ -1,0 +1,1 @@
+á 2phpXã%hr#wp-includes/class-wp-theme-json.php

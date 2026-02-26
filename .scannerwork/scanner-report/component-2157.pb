@@ -1,0 +1,1 @@
+í 2phpX%hrGwp-content/themes/twentytwentyfour/patterns/posts-images-only-3-col.php

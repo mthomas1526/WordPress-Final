@@ -1,0 +1,1 @@
+, 2jsXü	hr0wp-includes/js/tinymce/plugins/charmap/plugin.js

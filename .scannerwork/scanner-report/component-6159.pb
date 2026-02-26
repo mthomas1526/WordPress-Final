@@ -1,0 +1,1 @@
+è0 2phpXZhr'wp-includes/SimplePie/src/Copyright.php

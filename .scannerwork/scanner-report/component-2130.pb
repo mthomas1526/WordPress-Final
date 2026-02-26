@@ -1,0 +1,1 @@
+Ò 2phpXkhrEwp-content/themes/twentytwentyfour/patterns/footer-colophon-3-col.php

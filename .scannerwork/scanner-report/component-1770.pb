@@ -1,0 +1,1 @@
+ê 2phpX)hr)wp-content/themes/twentytwelve/footer.php

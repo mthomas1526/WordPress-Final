@@ -1,0 +1,2 @@
+† 2phpX§
+hr'wp-admin/includes/class-wp-upgrader.php

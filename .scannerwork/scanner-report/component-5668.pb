@@ -1,0 +1,1 @@
+¤, 2jsXÀhr.wp-includes/js/tinymce/plugins/paste/plugin.js

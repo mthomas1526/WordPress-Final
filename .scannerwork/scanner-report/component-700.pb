@@ -1,0 +1,1 @@
+¼ 2jsXhrwp-admin/js/color-picker.min.js
